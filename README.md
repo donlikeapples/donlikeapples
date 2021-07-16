@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @donlikeapples
-- 👀 I’m interested in a lot of stuff :P but if we're talking about the technical side of that stuff it would be - designing and creating websites. to be honest i just enjoy making things via coding because its stressful yet so satisfying once completed.
+- 👀 I’m interested in a lot of stuff :P but if we're talking about the technical side of that stuff it would be - designing and creating websites. to be honest i just enjoy making things using what i can on the computer because its stressful yet soooooo satisfying once completed.
 - 🌱 I’m currently learning javascript, java and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - apolcasobe@gmail.com
